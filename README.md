@@ -5,7 +5,7 @@ Spam Pairing Code Whatsapp using Javascript and Nodejs
     <img src="https://telegra.ph/file/6cb95459d6ff3a7e64901.jpg" width="250">
   </p>
   <p>This tool is used to spam Whatsapp<br>
-    installation codes and it is only used for small pranks. </p>
+    pairing codes and it is only used for small pranks. </p>
 </div>
 
 ## System Requirement
