@@ -1,0 +1,19 @@
+{
+  "name": "spc-whatsapp",
+  "version": "1.0.0",
+  "main": "spcwa.js",
+  "scripts": {
+    "start": "node spcwa.js --spamcode"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "clear-console": "^1.1.0",
+    "pino": "^8.16.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
