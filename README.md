@@ -36,3 +36,15 @@ git clone https://github.com/ZeltNamizake/scpwa
 cd spcwa
 npm start
 ```
+
+Note:
+Every time you want to run a script check if there is a file named "auth" but, If there is a file named "auth" then delete it first before running the script by the command:
+```bash
+rm -r auth
+```
+If it has been deleted, you can run the script using the command:
+```bash
+npm start
+```
+
+###### Created by  ```Driyasz (ZeltNamizake)```
