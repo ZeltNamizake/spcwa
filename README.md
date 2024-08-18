@@ -15,20 +15,20 @@ Spam Pairing Code Whatsapp using Javascript and Nodejs
 ```bash
 apt update && apt upgrade -y
 apt install nodejs git -y
-git clone https://github.com/ZeltNamizake/scpwa
+git clone https://github.com/ZeltNamizake/spcwa
 ```
 
 ## Install in Distro Linux
 ```bash
 sudo apt update && apt upgrade
 sudo apt install nodejs git
-git clone https://github.com/ZeltNamizake/scpwa
+git clone https://github.com/ZeltNamizake/spcwa
 ```
 
 ## Install in Windows with Gitbash
 You need to Install Nodejs and Git on your Device
 ```bash
-git clone https://github.com/ZeltNamizake/scpwa
+git clone https://github.com/ZeltNamizake/spcwa
 ```
 
 ## Run SPCWA
